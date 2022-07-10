@@ -6,9 +6,10 @@
 
 ## テンプレート集一覧
 - 田所構文
-    - <a href="tadokoro/tadokoro.md">学校来いよ構文</a>
-    - <a href="tadokoro/tadokoro-death.md">出血多量構文</a>
-- <a href="kititweet.md">キチツイ定型文</a>
+    - [学校来いよ構文](./tadokoro/tadokoro.md)
+    - [出血多量構文](./tadokoro/tadokoro-death.md)
+- [キチツイ定型文](./kititweet.md)
+- [ヒカキン定型文](./hikakin.md)
 
 ## 追伸
 
